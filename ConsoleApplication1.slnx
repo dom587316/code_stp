@@ -3,7 +3,13 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="ADDREV/ADDREV.vcxproj" Id="cee32ad1-091e-4e8a-b513-987a00d12c10" />
   <Project Path="code_mau/code_mau.vcxproj" Id="fcabd0b3-1416-4a7c-993a-92f9b70f0e95" />
   <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" Id="a50e9657-f59b-4738-917b-44695b1534b9" />
+  <Project Path="PRIME1E/PRIME1E.vcxproj" Id="f280d23f-7eb1-43ea-b812-45c4ae66561b" />
+  <Project Path="PROB01/PROB01.vcxproj" Id="53f73c95-e644-4b8d-a203-b2a3ba3e32a9" />
   <Project Path="problemB/problemB.vcxproj" Id="0bbb8ab6-0906-48ce-9e55-4aa1f09ec321" />
+  <Project Path="SMPDIV/SMPDIV.vcxproj" Id="35a483da-fd85-4b3b-8d9f-027b2641baee" />
+  <Project Path="SUMPROE/SUMPROE.vcxproj" Id="d1e0537f-79c9-418a-b755-3983eda03ece" />
+  <Project Path="TEST/TEST.vcxproj" Id="539166be-7edd-4659-a590-5e385b58355c" />
 </Solution>
