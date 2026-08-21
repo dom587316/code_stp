@@ -11,6 +11,9 @@
   <Project Path="NUMPER/NUMPER.vcxproj" Id="0c70f6ca-4fb4-48a3-b8a2-3838018e4378" />
   <Project Path="PRIME1E/PRIME1E.vcxproj" Id="f280d23f-7eb1-43ea-b812-45c4ae66561b" />
   <Project Path="PROB01/PROB01.vcxproj" Id="53f73c95-e644-4b8d-a203-b2a3ba3e32a9" />
+  <Project Path="PROB02/PROB02.vcxproj" Id="9982c926-7692-4256-b3b6-a35820181dc6" />
+  <Project Path="PROB03/PROB03.vcxproj" Id="d913339a-ac1e-4ea3-bbf1-6012c190a499" />
+  <Project Path="PROB06/PROB06.vcxproj" Id="1e5aa0d9-7a93-4f4f-8944-b3b9b0cae816" />
   <Project Path="problemB/problemB.vcxproj" Id="0bbb8ab6-0906-48ce-9e55-4aa1f09ec321" />
   <Project Path="SMPDIV/SMPDIV.vcxproj" Id="35a483da-fd85-4b3b-8d9f-027b2641baee" />
   <Project Path="SUMPROE/SUMPROE.vcxproj" Id="d1e0537f-79c9-418a-b755-3983eda03ece" />
